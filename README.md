@@ -1,4 +1,4 @@
-# Python Chllenge
+# Python Challenge
 
 参考资料：
 实验楼与Python Challenge相关课程：
