@@ -1,5 +1,4 @@
 *.idea
 *.pyc
 *.tag
-tag
-/tag
+tags
