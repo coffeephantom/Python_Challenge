@@ -12,11 +12,11 @@ print "height = %s" % (height)
 print "width = %s" % (width)
 print "mode = %s" % (img.mode)
 
-# 代表图片四角
+#代表方向
 dirs = [(1, 0), (0, 1), (-1, 0), (0, -1)]
 x, y, z = -1, 0, 0
 
-# 遍历新图中的所有点
+# 按照逆时针方向遍历新图中的所有点
 for i in range(200):
     d = dirs[i % 4]
     print d
